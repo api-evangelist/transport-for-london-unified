@@ -1,0 +1,25 @@
+{
+    "name": "Transport for London Unified",
+    "description": "<p>We are the integrated transport authority responsible for delivering Mayor of London Sadiq Khan's strategy and commitments on transport. We run the day-to-day operation of the Capital's public transport network and manage London's main roads.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/transport-for-london-unified-api.png",
+    "tags": [
+        "general data",
+        "have api",
+        "service api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/transport-for-london-unified\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.tfl.gov.uk"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/tfl.gov.uk\/"
+        }
+    ]
+}
